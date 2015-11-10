@@ -1,3 +1,10 @@
+//
+//  merkletree_test.go
+//  ------
+//
+//  :author: Philipp Jovanovic <philipp@jovanovic.io>, 2015
+//  :license: CC0, see the file LICENSE
+//
 package merkletree
 
 import "testing"
