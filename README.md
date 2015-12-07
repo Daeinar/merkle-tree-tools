@@ -15,6 +15,10 @@ go get github.com/daeinar/merkle-tree-tools
 ```
 
 ## Usage
+```
+go test
+```
+
 ...
 
 ## License
